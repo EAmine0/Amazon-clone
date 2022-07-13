@@ -1,0 +1,13 @@
+.home_banner{
+    width: 100%;
+    mask-image: linear-gradient(red,transparent);
+    z-index: -1;
+    margin-bottom: -150px;
+}
+
+.home_row{
+    display: flex;
+    
+    padding: 0 150px;
+
+}
