@@ -13,7 +13,7 @@ function Product({title, price, image}) {
                     <strong> {price} </strong>
                 </span>
                 <div className='product_rating'>
-                    <p>*s</p>
+                    <p>*</p>
                     <p>*</p>
                     <p>*</p>
                 </div>
